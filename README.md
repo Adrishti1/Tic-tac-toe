@@ -6,4 +6,4 @@ made this using html,css and javascript
 
 
 This code sets up a simple Tic-Tac-Toe game with HTML, CSS, and JavaScript. The game board is a 3x3 grid, and players take turns clicking on cells to place their marks ('X' or 'O').
-The game logic checks for a win or a draw and updates the result accordingly. The reset button allows players to start a new game
+The game logic checks for a win or a draw and updates the result accordingly. The newgame button allows players to start a new game
